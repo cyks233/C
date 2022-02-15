@@ -1,0 +1,1 @@
+F:\learn C\模拟实现字符串相关函数\index\Debug\index.exe
