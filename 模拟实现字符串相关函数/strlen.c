@@ -14,7 +14,7 @@ size_t myStrlen(const char* str)
 }
 int main()
 {
-    char arr2[] = "hello world!!!";
+    char arr2[] = "hello world";
     // printf("%d\n",strlen(str1));
     printf("%d\n", myStrlen(arr2));
     return 0;
